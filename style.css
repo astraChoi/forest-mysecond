@@ -1,0 +1,23 @@
+section{
+  hegiht:800px;
+}
+  h3{font-size:5em;
+      width:100px;
+      font-family: 나눔스퀘어_ac ExtraBold;
+      position:absolute;
+      top:1000px;
+      left: 400px;
+      animation: slide 7s;
+  }
+@keyframes slide {
+
+  from{
+      left:-200px;
+      opacity 0;
+  }
+  to{
+     left:400px;
+     opacity 1;
+  }
+
+}
