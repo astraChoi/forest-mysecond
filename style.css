@@ -1,7 +1,7 @@
 section{
   hegiht:800px;
 }
-  h3{font-size:5em;
+  .FRST{font-size:5em;
       width:100px;
       font-family: 나눔스퀘어_ac ExtraBold;
       position:absolute;
@@ -21,10 +21,20 @@ section{
   }
 
 }
+
+
 .teams{ font-size:40px;
-  font-family:나눔스퀘어_ac ExtraBold;
+  font-family:나눔스퀘어_ac ExtraBold; color:green;
   position:absolute;
   top:1960px;
+  left:400px;
+
+}
+
+.포레스트기획부{font-size:28px;
+  font-family:나눔스퀘어_ac ExtraBold;
+  position:absolute;
+  top:2020px;
   left:400px;
 
 }
@@ -32,7 +42,21 @@ section{
 .teamdetails_NGN{font-size:16px;
   font-family:나눔스퀘어_ac;
   position:absolute;
-  top:2020px;
+  top:2080px;
   left:400px;
 
+}
+.teamdetails_내부HR팀{font-size:16px;
+  font-family:나눔스퀘어_ac;
+  position:absolute;
+  top:2200px;
+  left:400px;
+
+}
+
+.teamdetails_인프라개발팀{font-size:16px;
+  font-family:나눔스퀘어_ac;
+  position:absolute;
+  top:2350px;
+  left:400px;
 }
